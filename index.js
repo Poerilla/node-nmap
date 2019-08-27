@@ -2,6 +2,7 @@
  * NodeJS <-> NMAP interface
  * Author:  John Horton
  * Purpose: Create an interface for NodeJS applications to make use of NMAP installed on the local system.
+ * Edited by Poerilla: scan progress uncommented
  */
 
 const child_process = require("child_process");
